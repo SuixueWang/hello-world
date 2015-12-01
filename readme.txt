@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Creating a new cranch is quick AND simple.
 Add merge.
+Add push.
